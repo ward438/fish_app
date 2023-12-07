@@ -27,7 +27,8 @@ After Installation:
 
   User experience: </br>
     &emsp;Dummy data will be randomized and inserted into the database upon initialization. </br>
-    &emsp;User has the ability to create a catch. A catch contains a fish, water system data, fly data, and regional data. 
+    &emsp;User has the ability to create a catch. A catch contains a fish, water system data, fly data, and regional data. </br>
+    &emsp;User can also enter their own data into the appropriate area. User can enter their own water system data, fly data, and regional data. This data then can be used to create a catch.
 
 <img width="1440" alt="image" src="https://github.com/ward438/fish_app/assets/75048548/f0c837b4-49e0-4559-bfba-9ad29fcd6231"></br>
 <img width="1440" alt="image" src="https://github.com/ward438/fish_app/assets/75048548/028e2196-6987-4b70-8e9b-0c7ae15d396e"></br>
