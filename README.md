@@ -25,6 +25,10 @@ After Installation:
   &emsp;<ins>Frontend location</ins>: http://localhost:3000 <br/>
   &emsp;<ins>Backend location</ins>: http://localhost:8000 <br/>
 
+  User experience: </br>
+    &emsp;Dummy data will be randomized and inserted into the database upon initialization. </br>
+    &emsp;User has the ability to create a catch. A catch contains a fish, water system data, fly data, and regional data. 
+
 <img width="1440" alt="image" src="https://github.com/ward438/fish_app/assets/75048548/f0c837b4-49e0-4559-bfba-9ad29fcd6231"></br>
 <img width="1440" alt="image" src="https://github.com/ward438/fish_app/assets/75048548/028e2196-6987-4b70-8e9b-0c7ae15d396e"></br>
 <img width="1440" alt="image" src="https://github.com/ward438/fish_app/assets/75048548/644332e4-5e16-46ab-b6a0-668ff6d0d1a4"></br>
