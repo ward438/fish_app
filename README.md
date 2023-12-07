@@ -2,7 +2,7 @@
 http://localhost:3000 <br/>
 
 Install Docker-Compose: <br/>
-  &<ins>Windows</ins>: https://docs.docker.com/desktop/install/windows-install/ <br/>&emsp;
+  &emsp;<ins>Windows</ins>: https://docs.docker.com/desktop/install/windows-install/ <br/>
   <ins>MacOS</ins>: https://docs.docker.com/desktop/install/mac-install/ <br/>
   <ins>Linux</ins>: https://docs.docker.com/desktop/install/linux-install/ <br/>
 
