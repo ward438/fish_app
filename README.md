@@ -13,6 +13,8 @@ Clone from repository: <br/>
   &emsp;This will initialize Docker-Compose and start building form the frontend and backend images. 
 
 This application leverages:</br>
-  &emsp;<ins>Django-Rest-Framework</ins>: Used for building custom API. Allows for easy building of Serializers, views and viewsets, data modeling, routing, and more. 
+  &emsp;<ins>Django-Rest-Framework(Python)</ins>: Used for building custom API. Allows for easy building of Serializers, views and viewsets, data modeling, routing, and more.</br>
+  &emsp;<ins>NextJS(Javascript)</ins>: Javascript/REACT front end framework that allows construction of reusable components, integrated routing via folder and file structure, state management, and more. Provides the UI for the user. </br> 
+  
   
   
