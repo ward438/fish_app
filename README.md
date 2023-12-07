@@ -4,7 +4,7 @@ Install Docker-Compose: <br/>
   &emsp;<ins>MacOS</ins>: https://docs.docker.com/desktop/install/mac-install/ <br/>
   &emsp;<ins>Linux</ins>: https://docs.docker.com/desktop/install/linux-install/ <br/>
 
-<H1>Clone from repository</H1>: <br/>
+<H1>Clone from repository:</H1> <br/>
   &emsp;Choose directory where app will be installed, use command line interface. <br/>
   &emsp;<ins>Enter in Terminal</ins>: git@github.com:ward438/fish_app.git <br/>
   &emsp;<img width="372" alt="image" src="https://github.com/ward438/fish_app/assets/75048548/76c3aaba-bc21-4bda-a505-b82750294927"></br>
@@ -12,13 +12,13 @@ Install Docker-Compose: <br/>
   &emsp;<img width="149" alt="image" src="https://github.com/ward438/fish_app/assets/75048548/28a591ec-8956-4b80-9c64-8c16fb2cabe8"> </br>
   &emsp;This will initialize Docker-Compose and start building the frontend and backend images. 
 
-This application leverages:</br>
+<H1>This application leverages:</H1>H1></br>
   &emsp;<ins>Django-Rest-Framework(Python)</ins>: Used for building custom API. Allows for easy building of Serializers, views and viewsets, data modeling, routing, and more.</br>
   &emsp;<ins>NextJS(Javascript)</ins>: Javascript/REACT front end framework that allows construction of reusable components, integrated routing via folder and file structure, state management, and more. Provides the UI for the user. </br> 
   &emsp;<ins>Material UI</ins>: Styling library that works around REACT based styling components. </br>
   &emsp;<ins>Docker-Compose</ins>: Is a tool for defining and running multi-container applications. It allows you to define a multi-container environment in a single file. </br>
 
-After Installation: </br>
+<H1>After Installation:<H1> </br>
   &emsp;After running <ins>docker-compose up</ins> in terminal, both frontend and backend will spool up and initialize. Both frontend and backend will automatically install required libraries dependencies. </br> 
   <img width="149" alt="image" src="https://github.com/ward438/fish_app/assets/75048548/28a591ec-8956-4b80-9c64-8c16fb2cabe8"> </br>
 
