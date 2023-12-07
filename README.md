@@ -8,6 +8,7 @@ Clone from repository: <br/>
   &emsp;Choose directory where app will be installed, use command line interface. <br/>
   &emsp;<ins>Enter in Terminal</ins>: git@github.com:ward438/fish_app.git <br/> 
   &emsp;<ins>After app installation, Enter in terminal:</ins> docker-compose up <br/>
+  &emsp;<img width="149" alt="image" src="https://github.com/ward438/fish_app/assets/75048548/28a591ec-8956-4b80-9c64-8c16fb2cabe8"> </br>
   &emsp;This will initialize Docker-Compose and start building form the frontend and backend images. 
 
 This application leverages:</br>
