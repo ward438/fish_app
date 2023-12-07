@@ -18,6 +18,8 @@ This application leverages:</br>
 
 After Installation:
   &emsp;After running <ins>docker-compose up</ins> in terminal, both frontend and backend will spool up and initialize. Both frontend and backend will automatically install required libraries dependencies. </br> 
+  <img width="149" alt="image" src="https://github.com/ward438/fish_app/assets/75048548/28a591ec-8956-4b80-9c64-8c16fb2cabe8"> </br>
+
   &emsp;<ins>Frontend location</ins>: http://localhost:3000 <br/>
   &emsp;<ins>Backend location</ins>: http://localhost:8000 <br/>
 
