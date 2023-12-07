@@ -4,7 +4,7 @@ Install Docker-Compose: <br/>
   &emsp;<ins>MacOS</ins>: https://docs.docker.com/desktop/install/mac-install/ <br/>
   &emsp;<ins>Linux</ins>: https://docs.docker.com/desktop/install/linux-install/ <br/>
 
-Clone from repository: <br/>
+<H1>Clone from repository</H1>: <br/>
   &emsp;Choose directory where app will be installed, use command line interface. <br/>
   &emsp;<ins>Enter in Terminal</ins>: git@github.com:ward438/fish_app.git <br/>
   &emsp;<img width="372" alt="image" src="https://github.com/ward438/fish_app/assets/75048548/76c3aaba-bc21-4bda-a505-b82750294927"></br>
