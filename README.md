@@ -1,6 +1,4 @@
 
-http://localhost:3000 <br/>
-
 Install Docker-Compose: <br/>
   &emsp;<ins>Windows</ins>: https://docs.docker.com/desktop/install/windows-install/ <br/>
   &emsp;<ins>MacOS</ins>: https://docs.docker.com/desktop/install/mac-install/ <br/>
@@ -17,3 +15,8 @@ This application leverages:</br>
   &emsp;<ins>NextJS(Javascript)</ins>: Javascript/REACT front end framework that allows construction of reusable components, integrated routing via folder and file structure, state management, and more. Provides the UI for the user. </br> 
   &emsp;<ins>Material UI</ins>: Styling library that works around REACT based styling components. </br>
   &emsp;<ins>Docker-Compose</ins>: Is a tool for defining and running multi-container applications. It allows you to define a multi-container environment in a single file. </br>
+
+After Installation:
+  &emsp;After running <ins>docker-compose up</ins> in terminal, both frontend and backend will spool up and initialize. Both frontend and backend will automatically install required libraries dependencies. </br> 
+  &emsp;<ins>Frontend location</ins>: http://localhost:3000 <br/>
+  &emsp;<ins>Backend location</ins>: http://localhost:8000 <br/>
