@@ -1,0 +1,53 @@
+version: '3.8'
+
+services:
+ 
+  postgres:
+    container_name: postgres
+    hostname: postgres
+    image: postgres:latest
+    environment:
+      POSTGRES_DB: FISH_APP
+      POSTGRES_USER: root
+      POSTGRES_PASSWORD: Steven32!!
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: ["CMD", "pg_isready"]
+      interval: 5s
+      timeout: 3s
+      retries: 3
+
+    volumes:
+      - project_postgres_data:/var/lib/postgresql/data
+  
+  backend:
+    hostname: backend
+    container_name: backend
+    build:
+      context: backend
+      dockerfile: Dockerfile
+    environment:
+      DB_HOST: postgres
+    ports:
+      - "8000:8000"
+    depends_on:
+      postgres:
+        condition: service_healthy
+  frontend:
+    build:
+      context: frontend
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+
+networks:
+  project:
+    name: myproject
+    enable_ipv6: false 
+
+volumes:
+  project_postgres_data:
+
+
+
