@@ -1,6 +1,6 @@
 
 Install Docker-Compose: <br/>
-  &emsp;<ins>#Windows</ins>: https://docs.docker.com/desktop/install/windows-install/ <br/>
+  &emsp;<ins># Windows</ins>: https://docs.docker.com/desktop/install/windows-install/ <br/>
   &emsp;<ins>MacOS</ins>: https://docs.docker.com/desktop/install/mac-install/ <br/>
   &emsp;<ins>Linux</ins>: https://docs.docker.com/desktop/install/linux-install/ <br/>
 
