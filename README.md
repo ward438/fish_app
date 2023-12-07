@@ -8,5 +8,5 @@ Install Docker-Compose: <br/>
 
 Clone from repository: <br/>
   &emsp;Choose directory where app will be installed. <br/>
-  &emsp;<ins>Enter in Terminal</ins>: git@github.com:ward438/fish_app.git <br/>
+  &emsp;<ins>Enter in Terminal</ins>: <br/> git@github.com:ward438/fish_app.git
   
