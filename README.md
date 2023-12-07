@@ -12,20 +12,20 @@ Install Docker-Compose: <br/>
   &emsp;<img width="149" alt="image" src="https://github.com/ward438/fish_app/assets/75048548/28a591ec-8956-4b80-9c64-8c16fb2cabe8"> </br>
   &emsp;This will initialize Docker-Compose and start building the frontend and backend images. 
 
-<H1>This application leverages:</H1>H1></br>
+<H1>This application leverages:</H1></br>
   &emsp;<ins>Django-Rest-Framework(Python)</ins>: Used for building custom API. Allows for easy building of Serializers, views and viewsets, data modeling, routing, and more.</br>
   &emsp;<ins>NextJS(Javascript)</ins>: Javascript/REACT front end framework that allows construction of reusable components, integrated routing via folder and file structure, state management, and more. Provides the UI for the user. </br> 
   &emsp;<ins>Material UI</ins>: Styling library that works around REACT based styling components. </br>
   &emsp;<ins>Docker-Compose</ins>: Is a tool for defining and running multi-container applications. It allows you to define a multi-container environment in a single file. </br>
 
-<H1>After Installation:<H1> </br>
+<H1>After Installation:</H1> </br>
   &emsp;After running <ins>docker-compose up</ins> in terminal, both frontend and backend will spool up and initialize. Both frontend and backend will automatically install required libraries dependencies. </br> 
   <img width="149" alt="image" src="https://github.com/ward438/fish_app/assets/75048548/28a591ec-8956-4b80-9c64-8c16fb2cabe8"> </br>
 
   &emsp;<ins>Frontend location</ins>: http://localhost:3000 <br/>
   &emsp;<ins>Backend location</ins>: http://localhost:8000 <br/>
 
-  User experience: </br>
+  <h1>User experience:</H1> </br>
     &emsp;Dummy data will be randomized and inserted into the database upon initialization. </br>
     &emsp;User has the ability to create a catch. A catch contains a fish, water system data, fly data, and regional data. </br>
     &emsp;User can also enter their own data into the appropriate area. User can enter their own water system data, fly data, and regional data. This data then can be used to create a catch. User will return to the catch menu and select from the drop down menus. </br>
