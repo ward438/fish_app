@@ -9,7 +9,7 @@ Install Docker-Compose: <br/>
 Clone from repository: <br/>
   &emsp;Choose directory where app will be installed. <br/>
   &emsp;<ins>Enter in Terminal</ins>: git@github.com:ward438/fish_app.git <br/> 
-  &emsp; After app installation, Enter in terminal: docker-compose up <br/>
+  &emsp; <ins>After app installation, Enter in terminal:</ins> docker-compose up <br/>
   &emsp;&emsp;This will initialize Docker-Compose and start building form the frontend and backend images. 
   
   
