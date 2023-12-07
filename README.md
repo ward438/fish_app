@@ -18,7 +18,7 @@ This application leverages:</br>
   &emsp;<ins>Material UI</ins>: Styling library that works around REACT based styling components. </br>
   &emsp;<ins>Docker-Compose</ins>: Is a tool for defining and running multi-container applications. It allows you to define a multi-container environment in a single file. </br>
 
-After Installation:
+After Installation: </br>
   &emsp;After running<ins>docker-compose up</ins> in terminal, both frontend and backend will spool up and initialize. Both frontend and backend will automatically install required libraries dependencies. </br> 
   <img width="149" alt="image" src="https://github.com/ward438/fish_app/assets/75048548/28a591ec-8956-4b80-9c64-8c16fb2cabe8"> </br>
 
