@@ -12,7 +12,7 @@ Clone from repository: <br/>
   &emsp;<ins>After app installation, Enter in terminal:</ins> docker-compose up <br/>
   &emsp;This will initialize Docker-Compose and start building form the frontend and backend images. 
 
-This application leverages:
+This application leverages:</br>
   &emsp;<ins>Django-Rest-Framework</ins>: Used for building custom API. Allows for easy building of Serializers, views and viewsets, data modeling, routing, and more. 
   
   
