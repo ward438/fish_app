@@ -10,7 +10,7 @@ Clone from repository: <br/>
   &emsp;<img width="372" alt="image" src="https://github.com/ward438/fish_app/assets/75048548/76c3aaba-bc21-4bda-a505-b82750294927"></br>
   &emsp;<ins>After app installation, Enter in terminal:</ins> docker-compose up <br/>
   &emsp;<img width="149" alt="image" src="https://github.com/ward438/fish_app/assets/75048548/28a591ec-8956-4b80-9c64-8c16fb2cabe8"> </br>
-  &emsp;This will initialize Docker-Compose and start building form the frontend and backend images. 
+  &emsp;This will initialize Docker-Compose and start building the frontend and backend images. 
 
 This application leverages:</br>
   &emsp;<ins>Django-Rest-Framework(Python)</ins>: Used for building custom API. Allows for easy building of Serializers, views and viewsets, data modeling, routing, and more.</br>
